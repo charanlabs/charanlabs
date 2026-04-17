@@ -60,9 +60,9 @@ These are the projects that represent my best work:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
-![OPA](https://img.shields.io/badge/OPA-7D9199?style=for-the-badge&logo=openpolicyagent&logoColor=white)
-![Kyverno](https://img.shields.io/badge/Kyverno-326CE5?style=for-the-badge&logo=kyverno&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Coralogix](https://img.shields.io/badge/Coralogix-F58220?style=for-the-badge&logo=coralogix&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ## Current Direction
 
